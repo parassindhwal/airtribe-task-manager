@@ -7,9 +7,11 @@ Rest api's for simple task manager application. The API will allow user to perfo
 
 ## Step to run the application:
 
-1. To install node dependencies
+1. To install node dependencies(node v20.10.0)
      >```npm install```
-2. To run the server
+2. To test the aplication
+    >```npm run test```
+3. To run the server
     >```npm run start```
 
 ### API's endpoint (with examples sample)
